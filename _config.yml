@@ -1,13 +1,13 @@
-title:              Clean Blog
+title:              ExceptionNotFoundException, gonuu
 email:              prayzz12@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        since 2021.04
 author:             Devonuu
-baseurl:            ""
-url:                "https://Devonuu.github.io"
+baseurl:            "/Devonuu"
+url:                "Devonuu.github.io"
 
 # Social Profiles
 #twitter_username:   
-github_username:    Devonuu
+github_username: Devonuu
 #facebook_username:  
 #instagram_username:  
 #linkedin_username:
